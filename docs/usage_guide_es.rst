@@ -1,13 +1,13 @@
-rotki Usage Guide
+Guía de uso de rotki
 #####################
 .. toctree::
   :maxdepth: 2
 
 
-Introduction
+Introduccion
 *************
 
-en esta sección vamos a ver cómo utilizar varias partes de la aplicación rotki.
+En esta sección vamos a ver cómo utilizar varias partes de la aplicación rotki.
 
  Primer registro
 ====================
