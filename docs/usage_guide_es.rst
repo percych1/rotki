@@ -96,7 +96,7 @@ Cambiar la moneda de las ganancias
 
 rotki calcula todo, incluyendo su beneficio/pérdida total durante el informe PnL en una moneda fiduciaria determinada. Esto es lo que llamamos moneda_de_ganancias. Por defecto es USD. Puedes cambiar fácilmente esta configuración haciendo clic en el icono de la moneda en el menú superior derecho y cambiándola a la moneda que estés utilizando.
 
-.. image:: images/profit_currency.png
+.. image:: images/sc_profit_currency.png
    :alt: Changing the profit currency
    :align: center
 
