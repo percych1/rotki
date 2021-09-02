@@ -82,6 +82,7 @@ Ten en cuenta que en caso de utilizar varias cuentas/dispositivos con la sincron
    :alt: Replace local database with remote backup
    :align: center
 
+También puedes mover manualmente la BD global que contiene los activos de un sistema a otro. Encuentra el :ref:`rotki_data_directory` en el sistema de origen. Asumiendo que es linux será ~/.local/share/rotki/data. La base de datos global es entonces ~/.local/share/rotki/data/global_data/global.db. Muévelo manualmente a la ubicación equivalente en el nuevo sistema.
 
 Personalización 
 **************
